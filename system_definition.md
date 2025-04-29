@@ -33,6 +33,7 @@ It aims to provide a smooth and well-organized travel experience for customers w
 ---
 
 ## **System Boundaries**
+![system boundery](system_boundery.png)
 - The system will **NOT** handle real-time booking or financial transactions directly.
 - The system will **focus mainly on information management**, not on full online service integration (like full hotel bookings or transportation reservations).
 
