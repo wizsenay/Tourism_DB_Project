@@ -1,5 +1,7 @@
 ## Entity Descriptions
 
+The entity types represent the key data objects in the Ethiopica system. Each entity corresponds to a real-world concept or object that the system needs to manage and store information about. These entities form the foundation for the database structure and help define the relationships between different parts of the system. For each entity, we include a description, any common aliases, and its typical occurrence within the system to provide a clear understanding of its role and behavior in the application domain.
+
 | **Entity Name**   | **Description**                                                        | **Aliases**     | **Occurrence**                                                                 |
 |-------------------|------------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------|
 | Tourist           | Represents individuals who use the service to travel and explore.      | Visitor, Client  | Each tourist can book one or more tour packages and participate in events.     |
